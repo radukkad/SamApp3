@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Context>
+    <Resource auth="Container" defaultAutoCommit="true"
+        driverClassName="com.mysql.jdbc.Driver" initialSize="0"
+        maxActive="300" maxIdle="10" maxOpenPreparedStatements="0"
+        maxWait="10000" minIdle="0" name="jdbc/mysql-datasource"
+        password="tZ3*iY6!" poolPreparedStatements="false"
+        type="javax.sql.DataSource"
+        url="jdbc:mysql://sql2.freesqldatabase.com:3306/sql217644" username="sql217644"/>
+</Context>
